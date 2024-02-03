@@ -1,4 +1,4 @@
-# komikcast_app
+# comics_app
 
 A new Flutter project.
 
